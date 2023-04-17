@@ -1,0 +1,10 @@
+C:\github\TARIH DUZELTME\HataDuzeltme\bin\Debug\XMLtoDatabase.exe.config
+C:\github\TARIH DUZELTME\HataDuzeltme\bin\Debug\XMLtoDatabase.exe
+C:\github\TARIH DUZELTME\HataDuzeltme\bin\Debug\XMLtoDatabase.pdb
+C:\github\TARIH DUZELTME\HataDuzeltme\obj\Debug\TarihDuzeltme.csprojAssemblyReference.cache
+C:\github\TARIH DUZELTME\HataDuzeltme\obj\Debug\HataDuzeltme.Form1.resources
+C:\github\TARIH DUZELTME\HataDuzeltme\obj\Debug\XMLtoDatabase.Properties.Resources.resources
+C:\github\TARIH DUZELTME\HataDuzeltme\obj\Debug\TarihDuzeltme.csproj.GenerateResource.cache
+C:\github\TARIH DUZELTME\HataDuzeltme\obj\Debug\TarihDuzeltme.csproj.CoreCompileInputs.cache
+C:\github\TARIH DUZELTME\HataDuzeltme\obj\Debug\XMLtoDatabase.exe
+C:\github\TARIH DUZELTME\HataDuzeltme\obj\Debug\XMLtoDatabase.pdb
